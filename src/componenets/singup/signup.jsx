@@ -28,11 +28,11 @@ const Signup = () => {
                 <p>Do you already have an account? <button className="link-button" onClick={() => { /* handle navigation */ }}>Log in</button></p>
                 <div className="social-login">
                     <button className="google-login">
-                        <span className='smalllogo'><img src="\images\google-logo.png" alt="Google Logo" /></span>
+                        <span className='smalllogo'><img src=".\images\google-logo.png" alt="Google Logo" /></span>
                         Continue with Google
                     </button>
                     <button className="facebook-login">
-                        <span className='smalllogo'><img src="\images\facebook-new.png" alt="Facebook Logo" /></span>
+                        <span className='smalllogo'><img src=".\images\facebook-new.png" alt="Facebook Logo" /></span>
                         Continue with Facebook
                     </button>
                 </div>
