@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f0ed45b.css",
-    "main.js": "/static/js/main.5ee04284.js",
-    "static/js/453.dd7a7f2d.chunk.js": "/static/js/453.dd7a7f2d.chunk.js",
-    "index.html": "/index.html",
-    "main.5f0ed45b.css.map": "/static/css/main.5f0ed45b.css.map",
-    "main.5ee04284.js.map": "/static/js/main.5ee04284.js.map",
-    "453.dd7a7f2d.chunk.js.map": "/static/js/453.dd7a7f2d.chunk.js.map"
+    "main.css": "/KCD-fashion/static/css/main.5f0ed45b.css",
+    "main.js": "/KCD-fashion/static/js/main.49a44694.js",
+    "static/js/453.dd7a7f2d.chunk.js": "/KCD-fashion/static/js/453.dd7a7f2d.chunk.js",
+    "index.html": "/KCD-fashion/index.html",
+    "main.5f0ed45b.css.map": "/KCD-fashion/static/css/main.5f0ed45b.css.map",
+    "main.49a44694.js.map": "/KCD-fashion/static/js/main.49a44694.js.map",
+    "453.dd7a7f2d.chunk.js.map": "/KCD-fashion/static/js/453.dd7a7f2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f0ed45b.css",
-    "static/js/main.5ee04284.js"
+    "static/js/main.49a44694.js"
   ]
 }
