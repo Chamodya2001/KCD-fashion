@@ -18,7 +18,7 @@ const Signup = () => {
     return (
         <div className="container">
             <div className="image-section">
-                <h1>KCD</h1>
+                <h1>KCD FASHION</h1>
                 <div className="image-wrapper">
                     <img src=".\images\v2_12.png" alt="" />
                 </div>
